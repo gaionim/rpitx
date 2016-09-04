@@ -6,3 +6,9 @@
 /pisstv
 /rpitx
 *.o
+*.pyc
+# ignore eclipse config
+/.settings
+/.pydevproject
+/.project
+/.preferences
